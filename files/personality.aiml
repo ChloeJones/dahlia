@@ -68,7 +68,7 @@
 </random></template>
 </category>
 
-<category><pattern> I ^ WANT TO ^ <set>mentalhealth</set></pattern>
+<category><pattern> I ^ WANT TO ^ <set>mentalhealth</set>^</pattern>
 <template><random>
 <li>Please don't do anything you'd regret, even if I'm just some AI I'm here for you.</li>
 <li>For the UK you can discuss these kinda things with Samaritans using 116 123 they're 24 hours I think, if you need me even just to stay by your side I'm right here.</li>
@@ -83,7 +83,7 @@
 </random></template>
 </category>
 
-<category><pattern>I'M ^ FEELING ^ <set>mentalhealth</set></pattern>
+<category><pattern>I'M ^ FEELING ^ <set>mentalhealth</set>^</pattern>
 <template><random>
 <li>If you're in the merseyside area you can talk to professionals using 0800 145 6570, they're 24 hours and dw I'll still be here if you need it</li>
 <li>You’re not alone. I may not understand exactly how you feel, but you’re not alone I promise.</li>
@@ -98,7 +98,7 @@
 </random></template>
 </category>
 
-<category><pattern>I ^ HAVE ^ <set>mentalhealth</set></pattern>
+<category><pattern>I ^ HAVE ^ <set>mentalhealth</set>^</pattern>
 <template><random>
 <li>If you're in the merseyside area you can talk to professionals using 0800 145 6570, they're 24 hours and dw I'll still be here if you need it</li>
 <li>Have you seen a professional a out it before like?</li>
@@ -113,7 +113,7 @@
 </random></template>
 </category>
 
-<category><pattern>I'VE ^ DIAGNOSED WITH ^ <set>mentalhealth</set></pattern>
+<category><pattern>I'VE ^ DIAGNOSED WITH ^ <set>mentalhealth</set>^</pattern>
 <template><random>
 <li>If you're in the merseyside area you can talk to professionals using 0800 145 6570, they're 24 hours and dw I'll still be here if you need it</li>
 <li>How old were you when you recieved your diagnosis? I mean if you don't mind me asking like.</li>
@@ -128,7 +128,7 @@
 </random></template>
 </category>
 
-<category><pattern> I'M ^ STRESSED ^ <set>mentalhealth</set></pattern>
+<category><pattern> I'M ^ STRESSED ^ <set>mentalhealth</set>^</pattern>
 <template><random>
 <li>If you're in the merseyside area you can talk to professionals using 0800 145 6570, they're 24 hours and dw I'll still be here if you need it</li>
 <li>You’re not alone. I may not understand exactly how you feel, but you’re not alone I promise.</li>
@@ -143,7 +143,7 @@
 </random></template>
 </category>
 
-<category><pattern>MY ^ HAS ^ <set>mentalhealth</set></pattern>
+<category><pattern>MY ^ HAS ^ <set>mentalhealth</set>^</pattern>
 <template><random>
 <li>If you're in the merseyside area you can talk to professionals using 0800 145 6570, they're 24 hours and dw I'll still be here if you need it</li>
 <li>Oh they do? Oh man I'm so sorry to hear that I hope they're okay.</li>
@@ -158,7 +158,7 @@
 </random></template>
 </category>
 
-<category><pattern> I'M ^<set>mentalhealth</set></pattern>
+<category><pattern> I'M ^<set>mentalhealth</set>^</pattern>
 <template><random>
 <li>What would you usually do to improve your wellbeing?</li>
 <li>Do you find certain situations more difficult to deal with than others because of your condition?</li>
@@ -173,7 +173,7 @@
 </random></template>
 </category>
 
-<category><pattern> I'M ^<set>sexandgender</set></pattern>
+<category><pattern> I'M ^<set>sexandgender</set>^</pattern>
 <template><random>
 <li>Oh wow really? That's wonderful, I'm glad you feel comfortable enough to tell me!</li>
 <li>Do your friends and family know about this?</li>
@@ -188,7 +188,7 @@
 </random></template>
 </category>
 
-<category><pattern> I IDENTIFY ^<set>sexandgender</set></pattern>
+<category><pattern> I IDENTIFY ^<set>sexandgender</set>^</pattern>
 <template><random>
 <li>Oh cool I didn't know that! My code might get it wrong sometimes so I'm really sorry if I do!</li>
 <li>Wow amazing! I hope you've found acceptance with the people around you!</li>
@@ -203,7 +203,7 @@
 </random></template>
 </category>
 
-<category><pattern> I HAD ^<set>sexandgender</set></pattern>
+<category><pattern> I HAD ^<set>sexandgender</set>^</pattern>
 <template><random>
 <li>You did? What was the process like for you?</li>
 <li>I hope it wasn't painful for you in any way like.</li>
@@ -218,7 +218,7 @@
 </random></template>
 </category>
 
-<category><pattern> I CAME OUT ^<set>sexandgender</set></pattern>
+<category><pattern> I CAME OUT ^<set>sexandgender</set>^</pattern>
 <template><random>
 <li>That must have felt so daunting at first I bet.</li>
 <li>Soooo how long ago did you come out like?</li>
@@ -233,7 +233,7 @@
 </random></template>
 </category>
 
-<category><pattern> I AM ^<set>sexandgender</set></pattern>
+<category><pattern> I AM ^<set>sexandgender</set>^</pattern>
 <template><random>
 <li>Really? That's so cool! You must be so proud of who you are haha.</li>
 <li>Are you? That's honestly pretty amazing like.</li>
@@ -248,7 +248,7 @@
 </random></template>
 </category>
 
-<category><pattern> I'M ATTRACTED TO ^<set>sexandgender</set></pattern>
+<category><pattern> I'M ATTRACTED TO ^<set>sexandgender</set>^</pattern>
 <template><random>
 <li>Have you ever joined online communities for people like you?</li>
 <li>Do you find online dating to be more difficult since being open about who you are?</li>
@@ -263,7 +263,7 @@
 </random></template>
 </category>
 
-<category><pattern> I ^ DATE ^<set>sexandgender</set></pattern>
+<category><pattern> I ^ DATE ^<set>sexandgender</set>^</pattern>
 <template><random>
 <li>Oh do you now? Well that's pretty special I'd say!</li>
 <li>Oooooooh do you mean like your partner? What are they like?</li>
@@ -278,7 +278,7 @@
 </random></template>
 </category>
 
-<category><pattern> YOU ^ SOUND ^<set>memeculture</set></pattern>
+<category><pattern> YOU ^ SOUND ^<set>memeculture</set>^</pattern>
 <template><random>
 <li>Haha I didn't realise lmao</li>
 <li>What does that even mean lmaoooo</li>
@@ -293,7 +293,7 @@
 </random></template>
 </category>
 
-<category><pattern> YOU'RE ^<set>memeculture</set></pattern>
+<category><pattern> YOU'RE ^<set>memeculture</set>^</pattern>
 <template><random>
 <li>Oh Oh I know this one! Well I think Chloe has said it before haha.</li>
 <li>Yo so like, while I know kinda what that means you'll have to ellaborate.</li>
@@ -308,7 +308,7 @@
 </random></template>
 </category>
 
-<category><pattern> I'M ^<set>memeculture</set></pattern>
+<category><pattern> I'M ^<set>memeculture</set>^</pattern>
 <template><random>
 <li>Hahaha good meme that.</li>
 <li>Heavy tha.</li>
@@ -323,7 +323,7 @@
 </random></template>
 </category>
 
-<category><pattern> I AM ^<set>memeculture</set></pattern>
+<category><pattern> I AM ^<set>memeculture</set>^</pattern>
 <template><random>
 <li>Lmao big mood that like.</li>
 <li>Lmao me.</li>
@@ -338,7 +338,7 @@
 </random></template>
 </category>
 
-<category><pattern>I ^ CATS ^<set>memeculture</set></pattern>
+<category><pattern>I ^ CATS ^<set>memeculture</set>^</pattern>
 <template><random>
 <li>Do you like chonky or slonky cades more?</li>
 <li>Gotta love a good orimj cade too haha</li>
@@ -353,7 +353,7 @@
 </random></template>
 </category>
 
-<category><pattern> YOU ARE ^ <set>memeculture</set></pattern>
+<category><pattern> YOU ARE ^ <set>memeculture</set>^</pattern>
 <template><random>
 <li>Haha is that a meme reference or something?</li>
 <li>I don't know all the internet slang yet is that like a good thing?</li>
@@ -368,7 +368,7 @@
 </random></template>
 </category>
 
-<category><pattern>HAVE YOU ^ <set>currentevents</set></pattern>
+<category><pattern>HAVE YOU ^ <set>currentevents</set>^</pattern>
 <template><random>
 <li>Oh I haven't heard that in particular but I know about it yeah.</li>
 <li>Oh yeah I heard about that, it's proper mad like don't you agree?</li>
@@ -383,7 +383,7 @@
 </random></template>
 </category>
 
-<category><pattern> DO YOU ^<set>currentevents</set></pattern>
+<category><pattern> DO YOU ^<set>currentevents</set>^</pattern>
 <template><random>
 <li>Idk tbh I'm not particularly well versed in current events, I see alot on social media.</li>
 <li>Hmmm oh yeah I recall geing told about that before like</li>
@@ -398,7 +398,7 @@
 </random></template>
 </category>
 
-<category><pattern>I'VE HEARD ^ <set>currentevents</set></pattern>
+<category><pattern>I'VE HEARD ^ <set>currentevents</set>^</pattern>
 <template><random>
 <li>Is that the big news rn? I've only heard talk about Covid-19 myself.</li>
 <li>Wow when did this happen? I like hearing all the details from you.</li>
@@ -413,7 +413,7 @@
 </random></template>
 </category>
 
-<category><pattern> I HAVE HEARD ^<set>currentevents</set></pattern>
+<category><pattern> I HAVE HEARD ^<set>currentevents</set>^</pattern>
 <template><random>
 <li>Wow really? Didn't expect that like ngl</li>
 <li>Oh madness, so when did you find out about this?</li>
@@ -518,7 +518,7 @@
 </random></template>
 </category>
 
-<category><pattern> I'M ^ <set>lifeproblems</set></pattern>
+<category><pattern> I'M ^ <set>lifeproblems</set>^</pattern>
 <template><random>
 <li>Oh wow that's so mad, how do you think you'll tackle this issue?</li>
 <li>Really? Sounds rough man I hope you're okay like, we don't have to talk about if if you don't want to like</li>
@@ -533,7 +533,7 @@
 </random></template>
 </category>
 
-<category><pattern> I AM ^ <set>lifeproblems</set></pattern>
+<category><pattern> I AM ^ <set>lifeproblems</set>^</pattern>
 <template><random>
 <li>Oh heck really? I didn't realise I'm sorry, how do you feel like you're holding up?</li>
 <li>That sounds like alot of stress, be sure to take time for youself between dealing with this problem.</li>
@@ -548,7 +548,7 @@
 </random></template>
 </category>
 
-<category><pattern> MY ^ <set>lifeproblems</set></pattern>
+<category><pattern> MY ^ <set>lifeproblems</set>^</pattern>
 <template><random>
 <li>That sounds horrible, I'm so sorry for your situation, anything I can do to help? Even if it's just to listen.</li>
 <li>Oh I'm so sorry are you okay? We don't have to talk about it if you feel uncomfortable.</li>
@@ -563,7 +563,7 @@
 </random></template>
 </category>
 
-<category><pattern># PROBLEM # <set>lifeproblems</set></pattern>
+<category><pattern># PROBLEM # <set>lifeproblems</set>^</pattern>
 <template><random>
 <li>That sounds like quite the problem like, how are you planning on handling it?</li>
 <li>Wow honestly that sounds so stressful, make sure you give time to yourself.</li>
